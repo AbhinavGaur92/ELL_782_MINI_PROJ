@@ -1,4 +1,4 @@
-# ELL_782_MINI_PROJ
+Parallel_Computing_Architectures_using_MPI
 
 The Mini Project entails designing and implementing a parallel algorithm of your choice (please discuss this with the instructor before starting off) on a programming platform of your choice - C/C++/Java on Linux/Windows. 
 You could work on Sorting and Searching Algorithms, DFT/FFT etc. You could design your own algorithms, or implement existing algorithms.
